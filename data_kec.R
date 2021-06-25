@@ -1,5 +1,5 @@
 # Numeric
-# berubah lagikan
+# berubah lagikan 2
 bil <- 40
 class(bil)
 

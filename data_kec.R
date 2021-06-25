@@ -1,5 +1,5 @@
 # Numeric
-
+# berubah lagikan
 bil <- 40
 class(bil)
 
